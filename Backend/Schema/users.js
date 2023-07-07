@@ -1,5 +1,6 @@
 const mongoose = require("mongoose");
 
+//schema format for every user
 const UsersSchema = new mongoose.Schema(
   {
     fname: String,
