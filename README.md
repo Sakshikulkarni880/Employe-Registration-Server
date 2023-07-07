@@ -4,12 +4,11 @@ LogicLoom Machine Test
 ## Tech Stack
 
 * Node.js
-* React.js
 * Express.js
 * MongoDB
 * Mongoose
-* Pagination
-* Bootstrap
+* Bcrypt.js
+* Nodemon
 
 ## Inatallation
 
@@ -21,10 +20,7 @@ git clone https://github.com/Sakshikulkarni880/Employe-Registration.git
 Install dependencies
 ```
 cd employee-registration
-cd frontend
-cd client
-npm install
-cd ../backend
+cd backend
 npm install
 ```
 
