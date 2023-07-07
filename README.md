@@ -1,4 +1,4 @@
-# Employe-Registration
+# Employee-Registration
 LogicLoom Machine Test
 
 ## Tech Stack
